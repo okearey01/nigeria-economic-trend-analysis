@@ -7,10 +7,10 @@
 3. [Project Aim](#project-aim)
 4. [About the Dataset](#about-the-dataset)
 5. [Data Cleaning & Preparation](#data-cleaning--preparation)
-6.[Data Modeling in Excel](#data-modeling).
+6. [Data Modeling in Excel](#data-modeling-in-excel)
 7. [Data Analysis](#data-analysis)
 8. [Data Visualization](#data-visualization)
-9. [Insights](#insights)
+9. [Insights from Data Analysis](#insights-from-data-analysis)
 10. [Recommendations](#recommendations)
 11. [Conclusion](#conclusion)
 
@@ -46,6 +46,7 @@ Columns include:
 - Services Contribution to GDP
 - GDP Growth Rate
 - Year
+ 
 
   ## Data Cleaning & Preparation
 
@@ -57,6 +58,7 @@ The following steps were performed:
 - Interpreted ambiguous columns (e.g., ratio-based debt column)
 - Created calculated columns such as GDP Growth Rate
 - Organized data for analysis
+
 
   ## Data Modeling in Excel
 
@@ -80,6 +82,7 @@ The following key metrics were calculated from the dataset:
 - Highest Inflation Rate
 - Lowest Inflation Rate
 
+
   ## Data Visualization
 
 An interactive Excel dashboard was created to summarize key economic indicators.
@@ -91,6 +94,7 @@ The dashboard includes:
 - Line chart showing GDP growth rate over time
 - Pie chart showing sector contribution to GDP
 - Scatter plot showing relationship between inflation and GDP
+
 
   ## Insights from Data Analysis
 
@@ -118,6 +122,7 @@ Government debt fluctuations between 1992–1995 coincided with economic instabi
 - Diversify the economy by strengthening agriculture and industry
 - Reduce overdependence on the services sector
 - Adopt gradual and controlled debt management strategies
+
 
   ## Conclusion
 
